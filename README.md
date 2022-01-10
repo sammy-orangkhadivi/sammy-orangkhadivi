@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sammy-orangkhadivi
-- 👀 I’m interested in algorithmnic trading, crypto, automation, AI and data science.  
-- 🌱 I’m currently learning data science through Dartmouth and I'm open to work.
+- 👀 I’m a data scientist interested in AI, algorithmnic trading, crypto, health and medical, economics and automation.  
+- 🌱 I’m currently completing my data science degree through Dartmouth and I'm open to work.
 - 💞️ I’m looking to collaborate on data science or crypto projects. 
 - 📫 How to reach me.  sammy.orangkhadivi@gmail.com   
 
